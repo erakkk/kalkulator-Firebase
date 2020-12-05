@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667352599424",
+    "project_id": "utskalkulator",
+    "storage_bucket": "utskalkulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667352599424:android:17d6b1d59797acfe228f65",
+        "android_client_info": {
+          "package_name": "yo.yo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667352599424-l2kvquibmui9p79mg97r578scvh8smlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSB_qjbmCcLuCjTXlZzJMMi_FW_7oo9sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667352599424-l2kvquibmui9p79mg97r578scvh8smlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
